@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/public/css/sidebar.css</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/DataFixtures/ORM/CommentFixtures.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Entity/Repository/BlogRepository.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/views/Default/index.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/layout.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/config/routing.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/config/parameters.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Entity/Post.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/config/services.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/contactEmail.txt.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Entity/Blog.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/config/parameters.yml.dist</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Comment/index.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/AppKernel.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Controller/BlogController.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/MyBlogBundle.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/AppBundle/Controller/DefaultController.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Form/CommentType.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/web/css/screen.css</file>
+            <file>file:/opt/lampp/htdocs/my_project/composer.json</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/views/Default/edit.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Page/sidebar.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Controller/DefaultController.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/Resources/views/base.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/views/Default/show.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/DataFixtures/ORM/BlogFixtures.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Comment/create.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/config/config.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/views/Default/new.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Controller/PageController.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Comment/form.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/views/Blog/show.html.twig</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Controller/CommentController.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/public/css/blog.css</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/config/routing.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Resources/config/config.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/app/config/routing.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Entity/Enquiry.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/AppBundle/AppBundle.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Entity/Comment.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/My/BlogBundle/Resources/config/services.yml</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Entity/Repository/CommentRepository.php</file>
+            <file>file:/opt/lampp/htdocs/my_project/src/Blogger/BlogBundle/Form/EnquiryType.php</file>
+        </group>
+    </open-files>
+</project-private>
