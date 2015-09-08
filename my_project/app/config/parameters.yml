@@ -8,6 +8,6 @@ parameters:
     database_password: blogsymfony2
     mailer_transport: gmail
     mailer_host: smtp.gmail.com
-    mailer_user: masa.tp@gmail.com
-    mailer_password: mkqa050429
+    mailer_user: 
+    mailer_password: 
     secret: d8e4def62433243d113610727e27ffde3
